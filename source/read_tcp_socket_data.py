@@ -7,6 +7,7 @@
 
 import sys
 
+
 HOST = 'localhost'  #replace your localhost or TCP/IP on your connection
 PORT = 28097        #replace your port connection ect. 8080 / 80 / ... any
 
